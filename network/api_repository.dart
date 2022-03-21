@@ -1,0 +1,4 @@
+
+class ApiRepository {
+  ApiRepository._();
+}
